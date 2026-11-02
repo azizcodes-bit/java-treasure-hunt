@@ -1,0 +1,16 @@
+Herzlich Willkommen zur Schatzsuche
+1 - Spielen
+2 -programm beenden
+Gib den Namen von Spieler 1 ein:
+Gib den Namen von Spieler 2 ein:
+Gib die Groesse des Spielfelds ein:
+    0
+0   _
+
+Aziz gib eine Zeile an:
+Aziz gib eine Spalte an:
+Schatz gefunden! Punkt fuer Aziz!
+    0
+0   S1
+
+Aziz hat mit 1:0 gewonnen!
